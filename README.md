@@ -1,2 +1,1 @@
-# CS395-FinalProject
-Final project website for CS 395 - Computer Ethics
+# [CS395 Final Project](https://burriep.github.io/CS395-FinalProject)
